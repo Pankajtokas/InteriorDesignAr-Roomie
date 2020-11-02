@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/accountUI/home.unity
+    guid: 90b1a9866e8ce92429b7d7378bb7eb2c
+  - enabled: 1
+    path: Assets/scenes/accountUI/Register.unity
+    guid: 8075a9ed71fd75e42810b98d6d7ad0ed
+  - enabled: 1
+    path: Assets/scenes/accountUI/login.unity
+    guid: 942c1e5af1eda294dbf6a85ac416686b
+  - enabled: 1
+    path: Assets/scenes/accountUI/profile.unity
+    guid: 2938ca1d7d80ad04a8277e1c14c3917d
+  - enabled: 1
+    path: Assets/scenes/panel.unity
+    guid: fef1f4c821644f342aba3d5f79586676
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/scenes/beanbag.unity
+    guid: 87f8250c0d50e3b4d820165c55d38447
+  - enabled: 1
+    path: Assets/scenes/couch.unity
+    guid: 617c20f922f80ac47b58be27f668c398
+  - enabled: 1
+    path: Assets/scenes/Armchair.unity
+    guid: 8e2bcc12b6f97094ba98451e1099e060
+  - enabled: 1
+    path: Assets/scenes/Barchair.unity
+    guid: 96349dccb6ef9f74b977ea2db1353cf4

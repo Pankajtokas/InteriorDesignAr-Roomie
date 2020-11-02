@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88635c4774dd3b74f8e4a9e0c4fe829c
+timeCreated: 1518329113
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slide: {fileID: 114424709029346704, guid: 75e7eda76d199534c96e97fa104f9f91, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

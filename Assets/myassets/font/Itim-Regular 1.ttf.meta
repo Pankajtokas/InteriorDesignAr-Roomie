@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0f1a868852701e84a88198f3bc322b72
+timeCreated: 1527339229
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Itim
+  fontNames:
+  - Itim
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40e0e07cf58088443895d96f946551b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
